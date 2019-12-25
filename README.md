@@ -50,8 +50,5 @@
 ## 关于作者
 
 ```javascript
-  var ihubo = {
-    nickName  : "gaofeicm",
-    site : "https://www.gaofeicm.cn"
-  }
+  CMS程序员一枚
 ```
