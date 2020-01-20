@@ -20,7 +20,7 @@
 
 ##  已驱动
 *   `核显`（UHD 630,VRAM=2048M）
-*   `声卡`（ACL269,layoutId = 6,内建,切换正常,10.15以上的系统,注入id为12,6已经被删除了）
+*   `声卡`（ACL269,layoutId = 6,内建,切换正常）
 *   `网卡`（RealtekRTL8111 + BCM94352Z）
 *   `蓝牙`（USB2.0通道,index=14）
 *   `USB定制`（导出USBPorts.kexts,去除USBInjectAll,USB3.0识别正常,速度满速,睡眠完全睡死）
