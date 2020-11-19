@@ -1,4 +1,4 @@
-前言：本EFI基于机械革命Z2定制版EFI修改而来，地址（https://www.cmbs-soft.com/8th-9th-version/），感谢
+前言：本EFI基于机械革命Z2定制版EFI修改而来，感谢！地址：https://www.cmbs-soft.com/8th-9th-version
 
 系统是由10.15.7（CLOVER引导）直接OTA升级上来的，升级过程重启过3-4次，只要确保配置正确，这都是正常过程
 
@@ -7,7 +7,7 @@
 本EFI基于OC0.6.3版本，包含内容如下：
 
 1、核显（2048M）
-2、音频AppleALC
+2、音频AppleALC（ID:29）
 3、USB驱动（定制USBPorts）
 4、电池
 5、亮度
