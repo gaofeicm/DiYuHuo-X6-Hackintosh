@@ -5,7 +5,7 @@
 ## 20210604更新
 *  1、11.0.1版本的EFI可直接使用，通过OTA从11.3.1（20E241）版本直接升级到11.4（20F71）版本，无需做任何修改，升级过程中会重启2～3次，属于正常情况。
 *  2、未出现网上说的定制的USB驱动失效的问题，一个配置用半年，省心省力！
-*  ![image](https://user-images.githubusercontent.com/25575562/120796738-c0b31100-c56d-11eb-8614-de0e3a256426.png)
+*  ![image](https://user-images.githubusercontent.com/25575562/120796845-e4765700-c56d-11eb-94b1-e77d48b954ec.png)
 ***
 
 ## 20210518更新
