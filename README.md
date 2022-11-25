@@ -2,6 +2,11 @@
 
 火影地狱火X6 黑苹果EFI
 
+## 20221125更新
+*  1、12.4版本的EFI可先进入系统进行下载更新，重启后换最新13.0的EFI，升级过程中会重启3～4次，属于正常情况。
+*  ![BBYX%W P29H)H HY){WFC9E](https://user-images.githubusercontent.com/25575562/203883281-c79412b0-3129-4355-b678-4c3328236ae1.jpg)
+***
+
 ## 20220612更新
 *  1、12.4版本的EFI可直接使用，通过OTA从11.6（20G165）版本直接升级到12.4版本，升级过程中会重启3～4次，属于正常情况。
 *  ![E3N 8JRJF(_PUA4IA~~OB9](https://user-images.githubusercontent.com/25575562/173228499-d42bf910-6b4a-4e4c-bc3d-88292189d942.png)
