@@ -2,6 +2,12 @@
 
 火影地狱火X6 黑苹果EFI
 
+## 20230928更新
+*  1、本EFI和13.0的EFI一模一样，13.6系统可以直接更新，无需替换EFI，升级过程中会重启3～4次，属于正常情况。
+*  2、已知问题：WIFI无法打开，估计是驱动太老了，大家可以试着更新因特尔wifi驱动试试，蓝牙是正常的。
+*  ![3516fad61f1be9a30861d6652c72bef2](https://github.com/gaofeicm/DiYuHuo-X6-Hackintosh/assets/25575562/58c5fd88-3497-438c-97be-ce9b3611fc53)
+***
+
 ## 20221125更新
 *  1、12.4版本的EFI可先进入系统进行下载更新，重启后换最新13.0的EFI，升级过程中会重启3～4次，属于正常情况。
 *  ![BBYX%W P29H)H HY){WFC9E](https://user-images.githubusercontent.com/25575562/203883281-c79412b0-3129-4355-b678-4c3328236ae1.jpg)
